@@ -1,0 +1,199 @@
+{"frames": {
+
+"beer-drinker.png":
+{
+	"frame": {"x":0,"y":0,"w":120,"h":145},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":145},
+	"sourceSize": {"w":120,"h":145}
+},
+"beer.png":
+{
+	"frame": {"x":0,"y":145,"w":256,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
+	"sourceSize": {"w":256,"h":256}
+},
+"explosion-0.png":
+{
+	"frame": {"x":0,"y":401,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"explosion-1.png":
+{
+	"frame": {"x":64,"y":401,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"explosion-2.png":
+{
+	"frame": {"x":128,"y":401,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"explosion-3.png":
+{
+	"frame": {"x":192,"y":401,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"explosion-4.png":
+{
+	"frame": {"x":0,"y":465,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"explosion-5.png":
+{
+	"frame": {"x":64,"y":465,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"explosion-6.png":
+{
+	"frame": {"x":128,"y":465,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"explosion-7.png":
+{
+	"frame": {"x":192,"y":465,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"explosion-8.png":
+{
+	"frame": {"x":0,"y":529,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"explosion-9.png":
+{
+	"frame": {"x":64,"y":529,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"explosion-10.png":
+{
+	"frame": {"x":128,"y":529,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"explosion-11.png":
+{
+	"frame": {"x":192,"y":529,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"explosion-12.png":
+{
+	"frame": {"x":0,"y":593,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"explosion-13.png":
+{
+	"frame": {"x":64,"y":593,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"explosion-14.png":
+{
+	"frame": {"x":128,"y":593,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"explosion-15.png":
+{
+	"frame": {"x":192,"y":593,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"jager-drinker.png":
+{
+	"frame": {"x":0,"y":657,"w":120,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":117},
+	"sourceSize": {"w":120,"h":117}
+},
+"jager.png":
+{
+	"frame": {"x":120,"y":657,"w":106,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":256},
+	"sourceSize": {"w":106,"h":256}
+},
+"tracks.jpg":
+{
+	"frame": {"x":0,"y":913,"w":200,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":224},
+	"sourceSize": {"w":200,"h":224}
+},
+"train.png":
+{
+	"frame": {"x":0,"y":1137,"w":256,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":68},
+	"sourceSize": {"w":256,"h":68}
+},
+"waggon.png":
+{
+	"frame": {"x":0,"y":1205,"w":256,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":43},
+	"sourceSize": {"w":256,"h":43}
+}},
+"animations": {
+	"explosion": ["explosion-0.png","explosion-1.png","explosion-2.png","explosion-3.png","explosion-4.png","explosion-5.png","explosion-6.png","explosion-7.png","explosion-8.png","explosion-9.png","explosion-10.png","explosion-11.png","explosion-12.png","explosion-13.png","explosion-14.png","explosion-15.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "game.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":1248},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6d7d775e44c58cfafcbf2f16844487a6:d50cdcf7f69e464845411d6635968cd1:fc2835210f98bae8e8c1b7f0a84c9321$"
+}
+}
